@@ -1,0 +1,12 @@
+Person name: Alper
+Category: foods, Priority: 2
+
+Transportation Method: AIR
+Total transportation cost: 873.41$
+Cargo fee: 9.62$
+
+Flight Speed (m/s): 131.0m/s
+Flight Time: 0 Hour 44 Minute 26 Second
+Current Time and Date: 23/12/2024 11:34:28
+Arriving Time and Date: 23/12/2024 12:18:54
+
